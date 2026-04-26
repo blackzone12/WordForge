@@ -97,4 +97,4 @@ WordForge is the perfect companion for high-speed crackers.
 **WordForge** is intended for authorized security auditing and educational purposes only. Unauthorized access to computer systems is illegal. The developers assume no liability for misuse of this tool. **Always obtain explicit permission before testing.**
 
 ---
-*Forged with precision for the security elite.*
+*Created by Black Zone*
